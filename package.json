@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "cocktails",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://vdovichenko1.github.io/alcofan",
+  "homepage": "https://https://seliutin-roman-ua.github.io/cocktails/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /alcofan/"
+    "build": "parcel build src/*.html --public-url /cocktails/"
   },
   "repository": {
     "type": "git",
